@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "title": "Harry Potter and the Philosopher's Stone",
+      "author": "J.K. Rowling",
+      "genre": "Fantasy",
+      "shelfNumber": "A12",
+      "location": "Fantasy"
+    },
+    {
+      "id": 2,
+      "title": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "genre": "Adventure",
+      "shelfNumber": "B05",
+      "location": "Sci-Fi & Fantasy"
+    },
+    {
+      "id": 3,
+      "title": "A Game of Thrones",
+      "author": "George R.R. Martin",
+      "genre": "Science Fiction",
+      "shelfNumber": "B05",
+      "location": "Sci-Fi & Fantasy"
+    }
+    // Add more books here...
+  ]
