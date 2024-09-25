@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Library Management System</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Library Management System</h1>
+  <form id="search-form">
+    <label for="search-input">Search for a book:</label>
+    <input type="text" id="search-input" name="search-input">
+    <button type="submit">Search</button>
+  </form>
+  <div id="search-results"></div>
+  <table>
+    <thead>
+      <tr>
+        <th>Title</th>
+        <th>Author</th>
+        <th>Genre</th>
+        <th>Shelf Number</th>
+      </tr>
+    </thead>
+    <tbody id="book-table-body">
+    </tbody>
+  </table>
+
+  <script src="script.js"></script>
+</body>
+</html>
